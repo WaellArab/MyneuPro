@@ -1,0 +1,12 @@
+
+body {
+    display: flex;
+    justify-content: center; /* Zentriert die Tabelle horizontal */
+    align-items: center; /* Zentriert die Tabelle vertikal */
+    height: 100vh; /* Stellt sicher, dass der Body den ganzen Viewport einnimmt */
+    }
+
+  .zentrierte-tabelle {
+     margin-top: -80px; /* Verschiebt die Tabelle 100px nach oben */
+     margin-left: 10px; /* Verschiebt die Tabelle 50px nach rechts */
+     }
